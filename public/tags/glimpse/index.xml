@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glimpse on Terminal</title>
+    <link>/tags/glimpse/</link>
+    <description>Recent content in Glimpse on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 22 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/glimpse/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First GBlog</title>
+      <link>/posts/making-of-my-first-blog-pipeline/</link>
+      <pubDate>Sun, 22 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/making-of-my-first-blog-pipeline/</guid>
+      <description>&lt;p&gt;Note: I am not using any color because it is kind of complicated here in obsidian.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Building this using NetworkChuck on YouTube!&lt;/li&gt;
+&lt;li&gt;This is so easy to watch and difficult to build&lt;/li&gt;
+&lt;/ol&gt;</description>
+      <content>&lt;p&gt;Note: I am not using any color because it is kind of complicated here in obsidian.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Building this using NetworkChuck on YouTube!&lt;/li&gt;
+&lt;li&gt;This is so easy to watch and difficult to build&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
